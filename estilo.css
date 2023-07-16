@@ -1,5 +1,15 @@
-body {background: color #00f000;
-    background-image: url(CEEP.JPG);
-    font-family:arial,verdana;
-    font-style:italic;(obligue,normal)
-    font-size:12 pt;(xlarge)
+.Cabelhaco {margin:1px;
+    background-color: gray;
+    font-size: 24px;
+    width: 600px;
+    padding: 10px;
+}
+
+.Corpo {width: 600px;
+padding: 10px;
+background-color: red;
+}
+
+.Rodape {width: 600px;
+padding: 10px;
+}
