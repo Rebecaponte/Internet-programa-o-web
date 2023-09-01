@@ -1,15 +1,9 @@
-.Cabelhaco {margin:1px;
-    background-color: gray;
-    font-size: 24px;
-    width: 600px;
-    padding: 10px;
+tr{background-color:yellow;
 }
-
-.Corpo {width: 600px;
-padding: 10px;
-background-color: red;
+td{font: size 40px;
+   
+    font-family:arial;
+text-transform:uppercase;
+text-align:center;
 }
-
-.Rodape {width: 600px;
-padding: 10px;
-}
+.exemplo1{background-color: cyan;}
